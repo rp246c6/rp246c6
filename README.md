@@ -14,7 +14,7 @@ I am a passionate java developer, driven by a curiosity for technology and Finan
 - 🚀 Always exploring new coding challenges!
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=java,SpringBoot,Microservices)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,Spring,aws,eclipse,jenkins,git,maven)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
