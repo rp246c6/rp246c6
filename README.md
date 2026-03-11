@@ -2,7 +2,7 @@
 
 I am a passionate java developer, driven by a curiosity for technology and Finance. My journey involves delving into the world of Electronics and Telecommunication , exploring new ideas, and sharing my insights with the community.
 
-![rp246c6's Stats](https://github-readme-stats.vercel.app/api?username=rp246c6&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=rp246c6&show_icons=true&count_private=true&cache_seconds=1800&hide=stars,contribs&theme=tokyonight)
 
 ## 🚀 About Me
 
