@@ -31,7 +31,7 @@ I am a passionate java developer, driven by a curiosity for technology and Finan
 
 ## 📬 Get in Touch
 
-- Connect with me on [Gmail](mailto:yourname@example.com)
+- Connect with me on [Gmail](mailto:rp246c6@example.com)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
