@@ -9,8 +9,8 @@ I am a passionate java developer, driven by a curiosity for technology and Finan
 - 🔭 I have completed Electronics and Telecommunication Engineering from Pune University.
 - 💻 Interested in **cloud architecture** and **API design**
 - 📂 Check out my projects:
-  - [Link](https://github.com/rp246c6/Spring-samples) - Spring Sample Project
-  - [Link](https://github.com/rp246c6/SpringSamples-SpringBoot-User-Mysql) - SpringBoot User Management User Service
+  - [Spring Sample Project](https://github.com/rp246c6/Spring-samples) 
+  - [SpringBoot User Management User Service](https://github.com/rp246c6/SpringSamples-SpringBoot-User-Mysql) 
 - 🚀 Always exploring new coding challenges!
 
 ## Tech Stack
