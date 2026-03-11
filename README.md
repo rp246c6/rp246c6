@@ -20,6 +20,7 @@ I am a passionate java developer, driven by a curiosity for technology and Finan
 
 - 🚀 **Spring Boot** and **JavaScript frameworks**.
 - 🚀 **Amazon webservices** 50 Day cloud challenge.
+- 🚀 **Java AI Prompts for programming**.
   
  ## 🏆 Achievements
 
