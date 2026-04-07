@@ -2,8 +2,6 @@
 
 I am a passionate java developer, driven by a curiosity for technology and Finance. My journey involves delving into the world of Electronics and Telecommunication , exploring new ideas, and sharing my insights with the community.
 
-![Stats](https://github-readme-stats.vercel.app/api?username=rp246c6&show_icons=true&count_private=true&cache_seconds=1800&hide=stars,contribs&theme=tokyonight)
-
 ## 🚀 About Me
 
 - 🔭 I have completed Electronics and Telecommunication Engineering from Pune University.
